@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/*/static/css/main.4db9df91.css",
-    "main.js": "/*/static/js/main.c8771efe.js",
-    "index.html": "/*/index.html",
-    "main.4db9df91.css.map": "/*/static/css/main.4db9df91.css.map",
-    "main.c8771efe.js.map": "/*/static/js/main.c8771efe.js.map"
+    "main.css": "/gw2log-viewer-client/static/css/main.4db9df91.css",
+    "main.js": "/gw2log-viewer-client/static/js/main.c8771efe.js",
+    "index.html": "/gw2log-viewer-client/index.html",
+    "main.4db9df91.css.map": "/gw2log-viewer-client/static/css/main.4db9df91.css.map",
+    "main.c8771efe.js.map": "/gw2log-viewer-client/static/js/main.c8771efe.js.map"
   },
   "entrypoints": [
     "static/css/main.4db9df91.css",
