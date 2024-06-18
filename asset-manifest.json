@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gw2log-viewer-client/static/css/main.9f1eb05b.css",
-    "main.js": "/gw2log-viewer-client/static/js/main.36c40af2.js",
+    "main.js": "/gw2log-viewer-client/static/js/main.1b464d6c.js",
     "index.html": "/gw2log-viewer-client/index.html",
     "main.9f1eb05b.css.map": "/gw2log-viewer-client/static/css/main.9f1eb05b.css.map",
-    "main.36c40af2.js.map": "/gw2log-viewer-client/static/js/main.36c40af2.js.map"
+    "main.1b464d6c.js.map": "/gw2log-viewer-client/static/js/main.1b464d6c.js.map"
   },
   "entrypoints": [
     "static/css/main.9f1eb05b.css",
-    "static/js/main.36c40af2.js"
+    "static/js/main.1b464d6c.js"
   ]
 }
